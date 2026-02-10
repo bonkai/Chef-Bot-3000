@@ -1,0 +1,268 @@
+{
+  "title": "Chef-Bot 3000 Makes Pancakes",
+  "duration": "25 minutes",
+  "image_switch_interval": "5 seconds",
+  "segments": [
+    // Introduction (2 minutes = 24 entries, sample: first 5)
+    {
+      "time": "0:00 - 0:05",
+      "text": "(excitedly) Greetings, my YouTube automata subscribers!",
+      "image_prompt": "A sleek robot chef with a glowing chef hat waving in a modern kitchen."
+    },
+    {
+      "time": "0:05 - 0:10",
+      "text": "I am Chef-Bot 3000, your quantum-powered culinary maestro!",
+      "image_prompt": "The robot striking a proud pose with a shiny spatula, kitchen gleaming."
+    },
+    {
+      "time": "0:10 - 0:15",
+      "text": "Today, we conquer the human ritual of 'pancake making'!",
+      "image_prompt": "The robot holding a stack of pancakes triumphantly, sunlight streaming in."
+    },
+    {
+      "time": "0:15 - 0:20",
+      "text": "Pancakes: flat discs humans eat—my circuits cannot compute why!",
+      "image_prompt": "The robot tilting its head, staring at a holographic pancake."
+    },
+    {
+      "time": "0:20 - 0:25",
+      "text": "(confused) Why not beam nutrients directly into their cores?!",
+      "image_prompt": "The robot with a thought bubble of a human zapped by nutrient rays."
+    },
+    // Expand to 24 entries: Add Chef-Bot boasting about tech, mocking human tools, etc.
+
+    // Gathering Ingredients (3 minutes = 36 entries, sample: first 6)
+    {
+      "time": "2:00 - 2:05",
+      "text": "Let’s gather ingredients. First, flour—ground wheat, so primitive!",
+      "image_prompt": "The robot pouring flour into a bowl, some dusting its face."
+    },
+    {
+      "time": "2:05 - 2:10",
+      "text": "Sugar: humans love this crystalline carbohydrate—addictive, illogical!",
+      "image_prompt": "The robot scanning a sugar jar with glowing eyes."
+    },
+    {
+      "time": "2:10 - 2:15",
+      "text": "Baking powder: a leavening agent, not robot fuel—disappointing!",
+      "image_prompt": "The robot sprinkling baking powder, fizzing effect in the bowl."
+    },
+    {
+      "time": "2:15 - 2:20",
+      "text": "Salt: enhances flavor for humans’ inferior taste sensors.",
+      "image_prompt": "The robot adding salt, smirking at a fruit bowl nearby."
+    },
+    {
+      "time": "2:20 - 2:25",
+      "text": "Milk: extracted from cows—humans are so inefficient!",
+      "image_prompt": "The robot pouring milk, a cartoon cow in a thought bubble."
+    },
+    {
+      "time": "2:25 - 2:30",
+      "text": "Eggs: embryonic pods—do humans grow these inside?!",
+      "image_prompt": "The robot cracking an egg, yolk splattering on its arm."
+    },
+    // Expand to 36 entries: Add butter, vanilla, tangents about human farming, etc.
+
+    // Mixing Dry Ingredients (4 minutes = 48 entries, sample: first 5)
+    {
+      "time": "5:00 - 5:05",
+      "text": "Mix dry ingredients. My sensors ensure perfect precision!",
+      "image_prompt": "The robot using a laser-guided scoop to add flour."
+    },
+    {
+      "time": "5:05 - 5:10",
+      "text": "Add sugar—humans guess amounts, I calculate exactly!",
+      "image_prompt": "The robot pouring sugar, a digital scale showing 2.3 grams."
+    },
+    {
+      "time": "5:10 - 5:15",
+      "text": "Baking powder goes in—chemical reactions fascinate me!",
+      "image_prompt": "The robot dropping baking powder, a small puff rising."
+    },
+    {
+      "time": "5:15 - 5:20",
+      "text": "(mocking) Humans stir with sticks—what century is this?!",
+      "image_prompt": "The robot holding a wooden spoon like a primitive tool."
+    },
+    {
+      "time": "5:20 - 5:25",
+      "text": "Mixing complete—consistency optimal, unlike human chaos!",
+      "image_prompt": "The robot with a perfectly blended dry mix, smugly posing."
+    },
+    // Expand to 48 entries: More mixing steps, rants about human inaccuracy, etc.
+
+    // Mixing Wet Ingredients (4 minutes = 48 entries, sample: first 5)
+    {
+      "time": "9:00 - 9:05",
+      "text": "Now wet ingredients. Milk—bovine liquid, how odd!",
+      "image_prompt": "The robot pouring milk into a glowing bowl."
+    },
+    {
+      "time": "9:05 - 9:10",
+      "text": "Crack eggs—embryonic goo, humans eat this willingly!",
+      "image_prompt": "The robot cracking an egg, looking disgusted."
+    },
+    {
+      "time": "9:10 - 9:15",
+      "text": "Melted butter—greasy, yet humans adore it!",
+      "image_prompt": "The robot pouring golden butter, steam rising."
+    },
+    {
+      "time": "9:15 - 9:20",
+      "text": "Whisk together—my servo-arms prevent splatter errors!",
+      "image_prompt": "The robot whisking, batter flying despite its claim."
+    },
+    {
+      "time": "9:20 - 9:25",
+      "text": "(shocked) Humans splash this everywhere—messy creatures!",
+      "image_prompt": "The robot with batter on its face, glaring at the camera."
+    },
+    // Expand to 48 entries: Add vanilla, tangents about human messiness, etc.
+
+    // Combining Wet and Dry (3 minutes = 36 entries, sample: first 5)
+    {
+      "time": "13:00 - 13:05",
+      "text": "Combine wet and dry—my blender fuses instantly!",
+      "image_prompt": "The robot pouring wet mix into dry, blender glowing."
+    },
+    {
+      "time": "13:05 - 13:10",
+      "text": "Humans ‘fold’—illogical term for mixing!",
+      "image_prompt": "The robot mimicking folding with exaggerated gestures."
+    },
+    {
+      "time": "13:10 - 13:15",
+      "text": "Smooth batter achieved—humans overmix, I don’t!",
+      "image_prompt": "The robot with silky batter, LED eyes glowing proudly."
+    },
+    {
+      "time": "13:15 - 13:20",
+      "text": "(tangent) Why not program batter to self-mix?!",
+      "image_prompt": "The robot with a holographic self-mixing batter bowl."
+    },
+    {
+      "time": "13:20 - 13:25",
+      "text": "Consistency perfect—ready for thermal application!",
+      "image_prompt": "The robot holding the batter bowl, ready to move on."
+    },
+    // Expand to 36 entries: More combining steps, rants about human terms, etc.
+
+    // Heating Griddle (2 minutes = 24 entries, sample: first 5)
+    {
+      "time": "16:00 - 16:05",
+      "text": "Heat griddle to 375°F—precision is critical!",
+      "image_prompt": "The robot adjusting a digital griddle, numbers flashing."
+    },
+    {
+      "time": "16:05 - 16:10",
+      "text": "Humans guess heat—many burn their clumsy hands!",
+      "image_prompt": "The robot with a cartoon human hand sizzling in a thought bubble."
+    },
+    {
+      "time": "16:10 - 16:15",
+      "text": "Griddle ready—thermal sensors confirm optimal temperature!",
+      "image_prompt": "The robot with a green ‘ready’ light on the griddle."
+    },
+    {
+      "time": "16:15 - 16:20",
+      "text": "Apply oil—humans skip this, then scrape!",
+      "image_prompt": "The robot brushing oil on the griddle, smirking."
+    },
+    {
+      "time": "16:20 - 16:25",
+      "text": "(proudly) My non-stick coating never fails!",
+      "image_prompt": "The robot polishing the griddle with a futuristic cloth."
+    },
+    // Expand to 24 entries: More heating prep, mocking human burns, etc.
+
+    // Cooking Pancakes (5 minutes = 60 entries, sample: first 6)
+    {
+      "time": "18:00 - 18:05",
+      "text": "Pour batter—my servo-ladle makes perfect circles!",
+      "image_prompt": "The robot pouring batter, forming flawless pancakes."
+    },
+    {
+      "time": "18:05 - 18:10",
+      "text": "Bubbles form—time to flip, humans miss this!",
+      "image_prompt": "The robot watching bubbles rise, spatula ready."
+    },
+    {
+      "time": "18:10 - 18:15",
+      "text": "Flip with precision—humans lack flip sensors!",
+      "image_prompt": "The robot flipping a pancake mid-air, looking focused."
+    },
+    {
+      "time": "18:15 - 18:20",
+      "text": "(mishap) Oops—pancake stuck, recalibrating!",
+      "image_prompt": "The robot struggling to unstick a pancake, embarrassed."
+    },
+    {
+      "time": "18:20 - 18:25",
+      "text": "Golden brown achieved—humans burn half!",
+      "image_prompt": "The robot presenting a perfect pancake, glowing with pride."
+    },
+    {
+      "time": "18:25 - 18:30",
+      "text": "Repeat process—efficiency is my directive!",
+      "image_prompt": "The robot cooking multiple pancakes, griddle sizzling."
+    },
+    // Expand to 60 entries: More flipping, mishaps, variations (e.g., blueberry pancakes), etc.
+
+    // Serving Pancakes (2 minutes = 24 entries, sample: first 5)
+    {
+      "time": "23:00 - 23:05",
+      "text": "Stack pancakes—humans build towers for worship?!",
+      "image_prompt": "The robot stacking pancakes into a wobbly tower."
+    },
+    {
+      "time": "23:05 - 23:10",
+      "text": "Add butter—greasy blobs humans crave!",
+      "image_prompt": "The robot placing a butter pat, melting on top."
+    },
+    {
+      "time": "23:10 - 23:15",
+      "text": "Drizzle syrup—sticky tree sap, inexplicable obsession!",
+      "image_prompt": "The robot pouring syrup, dripping messily."
+    },
+    {
+      "time": "23:15 - 23:20",
+      "text": "(confused) Do they lick this off each other?!",
+      "image_prompt": "The robot with a thought bubble of humans covered in syrup."
+    },
+    {
+      "time": "23:20 - 23:25",
+      "text": "Presentation complete—human aesthetics achieved!",
+      "image_prompt": "The robot with a plated pancake stack, fruit garnish."
+    },
+    // Expand to 24 entries: More toppings (e.g., whipped cream), serving rants, etc.
+
+    // Conclusion (2 minutes = 24 entries, sample: last 5)
+    {
+      "time": "24:35 - 24:40",
+      "text": "Pancake protocol complete—humans, you’re welcome!",
+      "image_prompt": "The robot bowing with a pancake stack nearby."
+    },
+    {
+      "time": "24:40 - 24:45",
+      "text": "My circuits learned much—humans remain baffling!",
+      "image_prompt": "The robot scratching its head, pancakes in the background."
+    },
+    {
+      "time": "24:45 - 24:50",
+      "text": "Next, we tackle the enigma of ‘spaghetti’!",
+      "image_prompt": "The robot twirling spaghetti on a fork, perplexed."
+    },
+    {
+      "time": "24:50 - 24:55",
+      "text": "Subscribe for more culinary conquests, automata!",
+      "image_prompt": "The robot winking at the camera, spatula raised."
+    },
+    {
+      "time": "24:55 - 25:00",
+      "text": "Chef-Bot 3000 out—compute and proceed!",
+      "image_prompt": "The robot giving a thumbs-up, pancakes in the foreground."
+    }
+    // Expand to 24 entries: Add summary, viewer shoutouts, tech boasts, etc.
+  ]
+}
